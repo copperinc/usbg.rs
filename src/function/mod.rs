@@ -2,6 +2,7 @@ pub mod hid;
 pub mod ecm;
 pub mod rndis;
 pub mod acm;
+pub mod mass_storage;
 
 use std::io;
 use std::path::Path;
