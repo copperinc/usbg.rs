@@ -1,6 +1,7 @@
 [package]
 name = "usbg"
-version = "0.1.0"
-authors = ["Xavier Stevens <xavier.stevens@gmail.com>"]
+version = "0.2.0"
+authors = ["Xavier Stevens <xavier.stevens@gmail.com>",
+           "Tobias Schneider <schneider@jancona.com>"]
 
 [dependencies]
